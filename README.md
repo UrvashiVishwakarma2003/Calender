@@ -3,6 +3,7 @@
 This is a simple calendar application built using C programming. It allows users to view the day of the week for any given date by implementing date calculation formulas and logic.
 
 🚀 Features:
+
 ✅ Displays correct day of the week for a given date
 ✅ Uses functions and loops for structured and efficient code
 ✅ Implements pre-defined date calculation formulas
